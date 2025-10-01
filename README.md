@@ -1,4 +1,4 @@
-# LibreLock
+# LibreLock Password Manager
 
 **LibreLock** is a secure, modern password manager built with Python and CustomTkinter. It lets you store, manage, and safely retrieve your passwords, emails, URLs, and notes—all encrypted and protected. Perfect for the extra-paranoid types who triple-check everything.
 
